@@ -6,7 +6,7 @@
 #include "TString.h"
 #include "TCanvas.h"
 
-void do_something(){
+void get_var_OR_plots(){
   TFile root_file7("trigger_count_hists_7.root");
   TFile root_file6("trigger_count_hists_6.root");
   TFile root_file5("trigger_count_hists_5.root");
