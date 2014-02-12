@@ -1,0 +1,635 @@
+A: 
+EF_2mu4T_Bmumu: 64345
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 48655
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 54778
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 36354
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 2038
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 33221
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+EF_2mu6_Bmumu: 18143
+EF_2mu6_Bmumu_L2StarB: 0
+B: 
+EF_2mu4T_Bmumu: 403980
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 364002
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 383715
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 277134
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 13591
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 247271
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+EF_2mu6_Bmumu: 125920
+EF_2mu6_Bmumu_L2StarB: 0
+C: 
+EF_2mu4T_Bmumu: 33827
+EF_2mu4T_Bmumu_L2StarB: 119520
+EF_2mu4T_Bmumu_Barrel: 24175
+EF_2mu4T_Bmumu_Barrel_L2StarB: 90469
+EF_mu4Tmu6_Bmumu: 25046
+EF_mu4Tmu6_Bmumu_L2StarB: 91847
+EF_2mu4T_Bmumu_BarrelOnly: 18447
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 68742
+EF_3mu4T: 3996
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 16228
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 59402
+EF_2mu6_Bmumu: 8006
+EF_2mu6_Bmumu_L2StarB: 27959
+D: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 356764
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 270037
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 273809
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 205834
+EF_3mu4T: 9634
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 176649
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 84022
+E: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 248204
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 201046
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 204453
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 158994
+EF_3mu4T: 7457
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 133428
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 64824
+G: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 132950
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 106377
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 107208
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 82642
+EF_3mu4T: 3868
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 70534
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 33370
+H: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 129737
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 111893
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 113467
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 92034
+EF_3mu4T: 4319
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 75632
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 37281
+I: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 89014
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 74295
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 83583
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 66043
+EF_3mu4T: 3215
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 54780
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 26421
+J: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 253711
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 195022
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 217240
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 165740
+EF_3mu4T: 7735
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 139418
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 66993
+L: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 78553
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 59465
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 70454
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 54221
+EF_3mu4T: 2589
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 45624
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 21574
+
+Total: 7932968
+-----
+Next run
+-----
+A: 
+EF_2mu4T_Bmumu: 64345
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 48655
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 54778
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 36354
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 2038
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 33221
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+EF_2mu6_Bmumu: 18143
+EF_2mu6_Bmumu_L2StarB: 0
+B: 
+EF_2mu4T_Bmumu: 403980
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 364002
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 383715
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 277134
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 13591
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 247271
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+EF_2mu6_Bmumu: 125920
+EF_2mu6_Bmumu_L2StarB: 0
+C: 
+EF_2mu4T_Bmumu: 33827
+EF_2mu4T_Bmumu_L2StarB: 119520
+EF_2mu4T_Bmumu_Barrel: 24175
+EF_2mu4T_Bmumu_Barrel_L2StarB: 90469
+EF_mu4Tmu6_Bmumu: 25046
+EF_mu4Tmu6_Bmumu_L2StarB: 91847
+EF_2mu4T_Bmumu_BarrelOnly: 18447
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 68742
+EF_3mu4T: 3996
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 16228
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 59402
+EF_2mu6_Bmumu: 8006
+EF_2mu6_Bmumu_L2StarB: 27959
+D: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 356764
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 270037
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 273809
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 205834
+EF_3mu4T: 9634
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 176649
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 84022
+E: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 248204
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 201046
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 204453
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 158994
+EF_3mu4T: 7457
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 133428
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 64824
+G: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 132950
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 106377
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 107208
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 82642
+EF_3mu4T: 3868
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 70534
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 33370
+H: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 129737
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 111893
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 113467
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 92034
+EF_3mu4T: 4319
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 75632
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 37281
+I: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 89014
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 74295
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 83583
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 66043
+EF_3mu4T: 3215
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 54780
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 26421
+J: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 253711
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 195022
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 217240
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 165740
+EF_3mu4T: 7735
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 139418
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 66993
+L: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 78553
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 59465
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 70454
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 54221
+EF_3mu4T: 2589
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 45624
+EF_2mu6_Bmumu: 0
+EF_2mu6_Bmumu_L2StarB: 21574
+
+Total: 7932968
+-----
+Next run
+-----
+A: 
+EF_2mu4T_Bmumu: 64345
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 48655
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 54778
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 36354
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 2038
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 33221
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+B: 
+EF_2mu4T_Bmumu: 403980
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 364002
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 383715
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 277134
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 13591
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 247271
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 0
+C: 
+EF_2mu4T_Bmumu: 33827
+EF_2mu4T_Bmumu_L2StarB: 119520
+EF_2mu4T_Bmumu_Barrel: 24175
+EF_2mu4T_Bmumu_Barrel_L2StarB: 90469
+EF_mu4Tmu6_Bmumu: 25046
+EF_mu4Tmu6_Bmumu_L2StarB: 91847
+EF_2mu4T_Bmumu_BarrelOnly: 18447
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 68742
+EF_3mu4T: 3996
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 16228
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 59402
+D: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 356764
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 270037
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 273809
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 205834
+EF_3mu4T: 9634
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 176649
+E: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 248204
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 201046
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 204453
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 158994
+EF_3mu4T: 7457
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 133428
+G: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 132950
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 106377
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 107208
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 82642
+EF_3mu4T: 3868
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 70534
+H: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 129737
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 111893
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 113467
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 92034
+EF_3mu4T: 4319
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 75632
+I: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 89014
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 74295
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 83583
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 66043
+EF_3mu4T: 3215
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 54780
+J: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 253711
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 195022
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 217240
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 165740
+EF_3mu4T: 7735
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 139418
+L: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 78553
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 59465
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 70454
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 54221
+EF_3mu4T: 2589
+EF_3mu4T_L2StarB: 0
+EF_mu4Tmu6_Bmumu_Barrel: 0
+EF_mu4Tmu6_Bmumu_Barrel_L2StarB: 45624
+
+Total: 7418455
+-----
+Next run
+-----
+A: 
+EF_2mu4T_Bmumu: 64345
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 48655
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 54778
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 36354
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 2038
+EF_3mu4T_L2StarB: 0
+B: 
+EF_2mu4T_Bmumu: 403980
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 364002
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 383715
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_BarrelOnly: 277134
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 0
+EF_3mu4T: 13591
+EF_3mu4T_L2StarB: 0
+C: 
+EF_2mu4T_Bmumu: 33827
+EF_2mu4T_Bmumu_L2StarB: 119520
+EF_2mu4T_Bmumu_Barrel: 24175
+EF_2mu4T_Bmumu_Barrel_L2StarB: 90469
+EF_mu4Tmu6_Bmumu: 25046
+EF_mu4Tmu6_Bmumu_L2StarB: 91847
+EF_2mu4T_Bmumu_BarrelOnly: 18447
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 68742
+EF_3mu4T: 3996
+EF_3mu4T_L2StarB: 0
+D: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 356764
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 270037
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 273809
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 205834
+EF_3mu4T: 9634
+EF_3mu4T_L2StarB: 0
+E: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 248204
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 201046
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 204453
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 158994
+EF_3mu4T: 7457
+EF_3mu4T_L2StarB: 0
+G: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 132950
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 106377
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 107208
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 82642
+EF_3mu4T: 3868
+EF_3mu4T_L2StarB: 0
+H: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 129737
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 111893
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 113467
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 92034
+EF_3mu4T: 4319
+EF_3mu4T_L2StarB: 0
+I: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 89014
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 74295
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 83583
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 66043
+EF_3mu4T: 3215
+EF_3mu4T_L2StarB: 0
+J: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 253711
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 195022
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 217240
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 165740
+EF_3mu4T: 7735
+EF_3mu4T_L2StarB: 0
+L: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 78553
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 59465
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 70454
+EF_2mu4T_Bmumu_BarrelOnly: 0
+EF_2mu4T_Bmumu_BarrelOnly_L2StarB: 54221
+EF_3mu4T: 2589
+EF_3mu4T_L2StarB: 0
+
+Total: 6366268
+-----
+Next run
+-----
+A: 
+EF_2mu4T_Bmumu: 64345
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 48655
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 54778
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+B: 
+EF_2mu4T_Bmumu: 403980
+EF_2mu4T_Bmumu_L2StarB: 0
+EF_2mu4T_Bmumu_Barrel: 364002
+EF_2mu4T_Bmumu_Barrel_L2StarB: 0
+EF_mu4Tmu6_Bmumu: 383715
+EF_mu4Tmu6_Bmumu_L2StarB: 0
+C: 
+EF_2mu4T_Bmumu: 33827
+EF_2mu4T_Bmumu_L2StarB: 119520
+EF_2mu4T_Bmumu_Barrel: 24175
+EF_2mu4T_Bmumu_Barrel_L2StarB: 90469
+EF_mu4Tmu6_Bmumu: 25046
+EF_mu4Tmu6_Bmumu_L2StarB: 91847
+D: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 356764
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 270037
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 273809
+E: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 248204
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 201046
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 204453
+G: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 132950
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 106377
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 107208
+H: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 129737
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 111893
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 113467
+I: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 89014
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 74295
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 83583
+J: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 253711
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 195022
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 217240
+L: 
+EF_2mu4T_Bmumu: 0
+EF_2mu4T_Bmumu_L2StarB: 78553
+EF_2mu4T_Bmumu_Barrel: 0
+EF_2mu4T_Bmumu_Barrel_L2StarB: 59465
+EF_mu4Tmu6_Bmumu: 0
+EF_mu4Tmu6_Bmumu_L2StarB: 70454
+
+Total: 5081641
+-----
+Next run
+-----
