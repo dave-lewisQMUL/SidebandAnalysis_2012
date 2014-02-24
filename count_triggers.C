@@ -12,7 +12,8 @@
 
 void count_triggers(){
 
-  Int_t n_trig = 1;
+  Int_t n_trig = 1; //comment this out to do all triggers
+  //Int_t n_triggs=7; //comment this out to do trigger OR
   TString trigg_name[7]={"EF_2mu4T_Bmumu",
 			 "EF_2mu4T_Bmumu_Barrel",
 			 "EF_mu4Tmu6_Bmumu",
@@ -21,8 +22,8 @@ void count_triggers(){
 			 "EF_mu4Tmu6_Bmumu_Barrel",
 			 "EF_2mu6_Bmumu"};
 
-  for(int z=0;z<n_trig;z++){
-    Int_t n_triggs = n_trig-z;
+  for(int z=0;z<n_trig;z++){ //comment out to do all triggers
+    Int_t n_triggs = n_trig-z; //comment out to do all triggers
   TString mu_algo="";
   mu_algo = "muons";
   //mu_algo = "staco";  
@@ -33,7 +34,11 @@ void count_triggers(){
   ss << n_triggs;
   TString file_name = "trigger_count_hists_"+ss.str()+".root";
   TFile* f = new TFile(file_name,"recreate");
-  TH1D* hists_list[10]; //Array of hist objects, one for each period, to count events per trigger
+  TH1D* hists_list[11]; //Array of hist objects, one for each period, to count events per trigger
+  hists_list[10]=new TH1D("hist_C_l2StarB","",n_triggs+1,0,n_triggs+1); //for l2starb in period C
+  hists_list[10]->SetBarOffset(0.1);
+  hists_list[10]->SetFillColor(30+a);
+  hists_list[10]->SetBarWidth(0.45);
   TH1D* trigg_OR_hist = new TH1D("trigg_OR","",20,0,20);
 
   //histograms for plots
@@ -190,11 +195,7 @@ void count_triggers(){
     Double_t* vars_list[14]={&iso7,&Lxy,&a_2D,&DR,&pTime,&logChi2z,&logChi2xy,
 			     &pT,&DCA,&ZCA,&d0min,&d0max,&Plng_min,&Plng_max};
     //initialise hist array for this period
-    if (period=="C"){
-      hists_list[a] = new TH1D("hist_"+period,"",2*n_triggs,0,2*n_triggs); //can get l2starb and trigg in C
-    }else{
-      hists_list[a] = new TH1D("hist_"+period,"",n_triggs+1,0,n_triggs+1); //+1 just for empty bin at edge
-    }
+    hists_list[a] = new TH1D("hist_"+period,"",n_triggs+1,0,n_triggs+1); //+1 just for empty bin at edge
     hists_list[a]->SetBarOffset(0.1);
     hists_list[a]->SetFillColor(30+a);
     hists_list[a]->SetBarWidth(0.45);
@@ -242,7 +243,7 @@ void count_triggers(){
 	    if (evPassedMCP && evPassedKinBs && evPassedKinMuons && evPassedChi2Bs){
 	      if (hasPassedTrigg && RunNum<206955){
 		event_count[j]++;
-		hists_list[a]->Fill(trigg_name[j],1);
+		hists_list[a]->Fill(j);
 		if (!already_counted){ //check if not counted, for trigger OR
 		  trigg_OR_hist->Fill(a*2);
 		  already_counted=true;
@@ -264,7 +265,10 @@ void count_triggers(){
 		}
 	      }else if (hasPassedTrigg_L2StarB && RunNum>=206955){
 		event_count_l2starb[j]++;
-		hists_list[a]->Fill(trigg_name[j]+"_L2StarB",1);
+		if (period!="C"){
+		  hists_list[a]->Fill(j);
+		}else{
+		  hists_list[10]->Fill(j); //fill C_l2starb
 		if (!already_counted){ //check if not counted
 		  trigg_OR_hist->Fill(a*2);
 		  already_counted=true;
@@ -357,7 +361,7 @@ void count_triggers(){
 	    if (evPassedMCP && evPassedKinBs && evPassedKinMuons && evPassedChi2Bs){
 	      if (hasPassedTrigg && RunNum<206955){
 		event_count[j]++;
-		hists_list[a]->Fill(trigg_name[j],1);
+		hists_list[a]->Fill(j);
 		if (!already_counted){ //check if counted or not
 		  trigg_OR_hist->Fill(a*2);
 		  already_counted=true;
@@ -379,7 +383,11 @@ void count_triggers(){
 		}
 	      }else if (hasPassedTrigg_L2StarB && RunNum>=206955){
 		event_count_l2starb[j]++;
-		hists_list[a]->Fill(trigg_name[j]+"_L2StarB",1);
+		if(period!="C"){
+		  hists_list[a]->Fill(j);
+		}else{
+		  hists_list[10]->Fill(j); //fill C_l2starb
+		}
 		if (!already_counted){ //check if counted or not
 		  trigg_OR_hist->Fill(a*2);
 		  already_counted=true;
@@ -435,8 +443,10 @@ void count_triggers(){
     }
   }
   //clear EF_3mu4T_L2StarB histograms, as that trigger doesn't actually exist
-  for (int k=0;k<14;k++){
-    delete vars_l2starb_hist_list[4][k];
+  if(n_triggs>=5){
+    for (int k=0;k<14;k++){
+      delete vars_l2starb_hist_list[4][k];
+    }
   }
   f->Write(); //Output histogram arrays to .root file
 
@@ -460,5 +470,5 @@ void count_triggers(){
   std::cout << std::endl << "Total: " << total_events << std::endl;
   std::cout << "Finished." << std::endl;
   //
-}
+  } //comment this out to stop OR looping
 }

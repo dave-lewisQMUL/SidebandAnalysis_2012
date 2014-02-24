@@ -5,13 +5,14 @@
 #include <vector>
 #include "TString.h"
 #include "TCanvas.h"
+#include "TLegend.h"
 
 void get_var_OR_plots(){
-  TFile root_file7("trigger_count_hists_7.root");
-  TFile root_file6("trigger_count_hists_6.root");
-  TFile root_file5("trigger_count_hists_5.root");
+  TFile root_file7("Root_files/trigger_count_hists_7.root");
+  TFile root_file6("Root_files/trigger_count_hists_6.root");
+  TFile root_file5("Root_files/trigger_count_hists_5.root");
   //TFile root_file4("trigger_count_hists_4.root");
-  TFile root_file3("trigger_count_hists_3.root");
+  TFile root_file3("Root_files/trigger_count_hists_3.root");
   //TFile root_file2("trigger_count_hists_2.root");
   //TFile root_file1("trigger_count_hists_1.root");
   TCanvas* c1 = new TCanvas("c1","c1",600,600);;
@@ -64,11 +65,11 @@ void get_var_OR_plots(){
 
     //hist_1->SetLineColor(1);
     //hist_2->SetLineColor(2);
-    hist_3->SetLineColor(3);
+    hist_3->SetLineColor(1);
     //hist_4->SetLineColor(4);
-    hist_5->SetLineColor(5);
-    hist_6->SetLineColor(6);
-    hist_7->SetLineColor(7);
+    hist_5->SetLineColor(38);
+    hist_6->SetLineColor(8);
+    hist_7->SetLineColor(2);
 
     //hist_1->Draw("");
     //hist_2->Draw("same");
@@ -77,6 +78,23 @@ void get_var_OR_plots(){
     hist_5->Draw("same");
     hist_6->Draw("same");
     hist_7->Draw("same");
+
+    TLegend* leg1;
+    if(vars.at(v)=="iso7"){
+      leg1 = new TLegend(0.6,0.5,0.89,0.59);
+    }else{
+      leg1 = new TLegend(0.6,0.8,0.89,0.89);
+    }
+    //    leg1->AddEntry(hist_1,"1 trigger","l");
+    //    leg1->AddEntry(hist_2,"2 triggers","l");    
+    leg1->AddEntry(hist_3,"3 triggers","l");
+    //    leg1->AddEntry(hist_4,"4 triggers","l");
+    leg1->AddEntry(hist_5,"5 triggers","l");
+    leg1->AddEntry(hist_6,"6 triggers","l");
+    leg1->AddEntry(hist_7,"7 triggers","l");
+    leg1->SetFillColor(0);
+    leg1->SetFillStyle(0);
+    leg1->Draw();
 
     c1->SaveAs("OR_"+vars.at(v)+".pdf");
     c1->Clear();
